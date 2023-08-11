@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamtochukwu
-- 👀 I’m interested in DevOps and Solution Architech
+- 👀 I’m interested in DevOps and Solution Architect
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on CI/CD Projects
 - 📫 How to reach me iamtochukwu.dev@gmail.com
